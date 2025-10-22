@@ -31,3 +31,16 @@ The bot converts currencies in real time (like USD → INR, EUR → GBP, etc.) t
 ---
 
 ## 📂 Project Structure
+
+currency-converter-bot/
+├── app.py # Flask fulfillment code
+├── requirements.txt # Python dependencies
+├── README.md # Project documentation
+└── .gitignore
+
+## ⚙️ Setup Instructions
+
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/<your-username>/currency-converter-bot.git
+cd currency-converter-bot
